@@ -1,7 +1,7 @@
 ### Hello there 👋!<br/>
 
 - We're Kreamy, a software development company specializing in media development!
-- We like to do a bunch of random(ish) stuff, such as working around ad-publishing limiations
+- We like to do a bunch of random(ish) stuff, such as working around ad-publishing limitations
 - We're turning 1 year old in September!
 - Our team currently consists of a singular software developer (me), but more are coming :)
 
